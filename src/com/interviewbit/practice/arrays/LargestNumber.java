@@ -1,4 +1,4 @@
-package com.interviewbit.practice;
+package com.interviewbit.practice.arrays;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -53,7 +53,6 @@ public class LargestNumber {
         return strBuf.toString();
     }
     public static class StringCompare implements Comparator<String> {
-        @Override
         public int compare(String a, String b) {
             String s1=a+b;
             String s2=b+a;

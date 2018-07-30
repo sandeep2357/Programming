@@ -1,4 +1,4 @@
-package com.interviewbit.practice;
+package com.interviewbit.practice.arrays;
 
 import java.util.ArrayList;
 import java.util.HashMap;

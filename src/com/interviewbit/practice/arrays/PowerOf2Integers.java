@@ -1,4 +1,4 @@
-package com.interviewbit.practice;
+package com.interviewbit.practice.arrays;
 
 public class PowerOf2Integers {
 
