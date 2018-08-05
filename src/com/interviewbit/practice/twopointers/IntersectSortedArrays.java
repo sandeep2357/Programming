@@ -41,8 +41,6 @@ public class IntersectSortedArrays {
 				 i++;
 				 j++;
 			 }
-			 System.out.println(i);
-			 System.out.println(j);
 		 }
 		 return res;
 	 }
